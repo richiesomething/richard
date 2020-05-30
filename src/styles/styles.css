@@ -1,0 +1,16 @@
+@import "https://www.w3schools.com/w3css/4/w3.css";
+@import "https://fonts.googleapis.com/css?family=Roboto";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css";
+
+* {
+    text-align: left;
+}
+
+h1, h2, h3, h3, h5, h6, b {
+    color: teal;
+}
+
+#me {
+    width: 100%;
+}
